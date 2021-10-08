@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @shreyansh129
-- 👀 I’m interested in html css js and some editings
-- 🌱 I’m currently learning Computer Application
-- 💞️ I’m looking to studie more on my interested topics
 - 📫 How to reach me you can mail me at Shahshreyansh2000@gmail.com
 
 <!---
