@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shreyansh Shah (@shreyansh129)
 - 📫 How to reach me you can mail me at Shahshreyansh2000@gmail.com
-- 👨‍💼 Curently Working at Accelerate Business Solutions as QA(Manual/Automation).
-- Completed a Year as QA Tester
+
 <!---
 shreyansh129/shreyansh129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
